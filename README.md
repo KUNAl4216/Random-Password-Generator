@@ -18,6 +18,6 @@ Usage Example
 
 Welcome to the Random Password Generator!
 
-Enter the desired password length: 12
+Enter the desired password length: 8
 
 Generated Password: xY#7FpL!kR9t
